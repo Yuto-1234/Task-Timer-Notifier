@@ -1,0 +1,5 @@
+{
+  "name": "Task Timer Notifier",
+  "description": "タスクを入力してタイマーをセットし、時間になると音とポップアップで通知するアプリです。",
+  "requestFramePermissions": []
+}
